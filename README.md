@@ -3,3 +3,4 @@
 包含了2个项目：</br>
 1、AforgenetTest：一个测试程序，用于对新验证码的识别调试以及模板文件的生成。</br>
 2、RecogniseCode：识别库，可以添加到项目中使用</br>
+![Image text](https://github.com/kwwwvagaa/YanZhengMaShiBie/blob/master/Demo.png)
