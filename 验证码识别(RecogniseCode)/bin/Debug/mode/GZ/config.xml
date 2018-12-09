@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <!--1：颜色去除；2：灰度；3：二值化；4：去噪；5：标记-->  
+  <item id="21" value="27,13,49" />
+  <item id="31" value="190" />
+  <item id="minXY" value="25,9"/>
+  <item id="maxXY" value="170,30"/>
+</source>

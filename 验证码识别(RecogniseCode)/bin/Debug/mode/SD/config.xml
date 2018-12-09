@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <!--1：颜色去除；2：灰度；3：二值化；4：去噪；5：标记-->  
+  <item id="21" value="0,0,100" />
+  <item id="31" value="140" />
+  <item id="41" value="2,1" />
+  <item id="71" value="10,10|165,10|155,50|0,50" />
+  <item id="72" value="155,40" />
+  <item id="73" value="105" />
+  <item id="74" value="D:\Program Files (x86)\Tesseract-OCR" />
+</source>

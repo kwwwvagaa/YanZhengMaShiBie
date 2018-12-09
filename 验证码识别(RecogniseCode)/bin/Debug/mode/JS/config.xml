@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <!--1：颜色去除；2：灰度；3：二值化；4：去噪；5：标记-->   
+  <item id="21" value="54,0,0" />
+  <item id="31" value="99" />
+  <item id="41" value="6,6" />
+  <item id="51" value="5,5" />
+  <!--是否检测宽度并合并-->
+  <item id="52" value="true" />
+  <!--检测宽度并合并的最大宽度-->
+  <item id="53" value="20" />
+  <!--是否旋转为最小宽度-->
+  <item id="54" value="false" />
+</source>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<source>
+  <!--1：颜色去除；2：灰度；3：二值化；4：去噪；5：标记-->
+  <!--去除颜色-->
+  <item id="11" value="129,131,130" />
+  <!--阈值-->
+  <item id="12" value="40" />
+  <!--替换颜色-->
+  <item id="13" value="255,255,255" />
+  <item id="21" value="27,13,49" />
+  <item id="31" value="119" />
+  <item id="41" value="5,5" />
+  <item id="61" value="false" />
+  <item id="62" value="3" />
+  <item id="63" value="true" />
+  <item id="64" value="26" />
+</source>
